@@ -142,10 +142,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    
-    
-    
-    
+          
     
 }
 
@@ -156,8 +153,7 @@ a {
     text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.521);
     width: 700px;
     max-height: 400px;
-    
-    
+       
 
 }
 
@@ -228,13 +224,6 @@ a {
 
 
 
-.a{color: #E7484F}
-.b{color: #F68B1D}
-.c{color: #FCED00}
-.d{color: #009E4F}
-.e{color: #00AAC3}
-.f{color:  #732982}
-
 .rainbow{
    
     cursor: pointer;
@@ -250,6 +239,6 @@ a {
  
  @keyframes slidebg {
     to {
-      background-position:20vw;
+      background-position:83vw;
     }
   }
