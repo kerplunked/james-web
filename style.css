@@ -221,3 +221,32 @@ a {
     align-items: center;
     font-size: 19px;
 }
+
+
+
+
+.a{color: #E7484F}
+.b{color: #F68B1D}
+.c{color: #FCED00}
+.d{color: #009E4F}
+.e{color: #00AAC3}
+.f{color:  #732982}
+
+.rainbow{
+   
+    cursor: pointer;
+    
+}
+
+.rainbow-3:hover{
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, red);
+    animation:slidebg 2s linear infinite;
+  }
+
+  
+ 
+ @keyframes slidebg {
+    to {
+      background-position:20vw;
+    }
+  }
