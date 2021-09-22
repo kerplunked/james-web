@@ -59,8 +59,8 @@ a {
 }
 
 .smallbutton {
-    width:101px;
-    height: 29px;
+    width:122px;
+    height: 44px;
     background-color: #3882f6;
     color: #e5e7eb;
     font-size: 16px;
@@ -161,4 +161,46 @@ a {
     font-weight: bolder;
     font-style: normal;
     
+}
+
+.white {
+    display: flex;
+    height: 450px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.bluebox {
+    height: 264px;
+    width: 1300px;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-evenly;
+    color: white; 
+    border: 3px solid #1f293773;
+    border-radius: 65px;
+}
+
+.b-head {
+    font-size: 32px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+.b-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.b-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.b-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
 }
