@@ -87,6 +87,7 @@ a {
     font-size: 32px;
     color: #1f1937;
     font-weight: bolder;
+    padding-bottom: 45px;
 }
 
 
@@ -96,6 +97,7 @@ a {
     align-items: center;
     justify-content: center;
     gap: 41px;
+    padding-bottom: 99px;
   }
 
 .box {
@@ -104,14 +106,17 @@ a {
     align-items: center;
     justify-content: center;
     width: 150px;
+    color: #231d3a;
+    gap: 6px;
 }
     
 
 .card {
-    border: 1px solid black;
+    border: 1px solid #3882f6;
     border-radius: 8px;   
     height: 150px;
     width: 150px;
     border-width: 5px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
