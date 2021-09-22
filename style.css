@@ -79,3 +79,39 @@ a {
     width: 550px;
     margin: 5px;
 }
+
+.midtitle {
+    padding-top: 45px;
+    display: flex;
+    justify-content: center;
+    font-size: 32px;
+    color: #1f1937;
+    font-weight: bolder;
+}
+
+
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 41px;
+  }
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+}
+    
+
+.card {
+    border: 1px solid black;
+    border-radius: 8px;   
+    height: 150px;
+    width: 150px;
+    border-width: 5px;
+}
+
