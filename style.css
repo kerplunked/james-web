@@ -38,6 +38,9 @@ a {
     padding-bottom: 70px;
 }
 .topleft {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     height: 230px;
     width: 550px;
 }
@@ -60,6 +63,10 @@ a {
     height: 29px;
     background-color: #3882f6;
     color: #e5e7eb;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 1px solid black;
+    border-radius: 8px;
 
 }
 
