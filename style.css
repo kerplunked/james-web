@@ -67,8 +67,18 @@ a {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     border: 1px solid black;
     border-radius: 8px;
+}
+
+.smallbutton:hover {
+    font-size: 19px;
+    font-weight: bolder;
+    border: 1px solid pink;
+    
 
 }
+    
+
+
 
 .placeholder {
     background-color: rgb(133, 132, 132);
